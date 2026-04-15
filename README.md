@@ -1,1 +1,1 @@
-# NCET_Ai_chat
+this project is based on LL 
